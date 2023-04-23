@@ -59,4 +59,4 @@ pip install scipy
 ```
 
 # Thử nghiệm
-## Trong mục test có file audio_signal.wav là file âm thanh lý tưởng
+## Thử nghiệm trong môi trường độ ồn thấp 
