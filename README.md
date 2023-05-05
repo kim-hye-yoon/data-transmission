@@ -39,7 +39,7 @@ pip install numpy sounddevice scipy PyQt6
 Văn bản truyền đi là file text.txt có nội dung "hello".
 
 File âm thanh trong thư mục test/
-- test/transmitter/audio_signal.wav là file âm thanh lý tưởng bên phát tạo ra được ghi vào 
-- test/receiver/rec.wav là file âm thanh bên thu ghi lại được
+- test/transmitter/audio_signal.wav là file âm thanh lý tưởng bên phát tạo ra được ghi vào.
+- test/receiver/rec.wav là file âm thanh bên thu ghi lại được.
 ## *Video demo*
 https://youtu.be/IOUo0w91u00
