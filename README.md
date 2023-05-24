@@ -7,8 +7,8 @@
 
 | Bên phát | Bên thu |
 |---|---|
-|1. Mã hoá file văn bản gửi đi thành mã nhị phân (sử dụng RLE)| 1. Thu âm thanh |
-|2. Mã hóa nguồn bằng mã phát hiện lỗi CRC|2. Giải điều chế BFSK âm thanh thu được về mã nhị phân|
+|1. Mã hoá file văn bản gửi đi ( mã hóa nguồn sử dụng RLE)| 1. Thu âm thanh |
+|2. Mã hóa kênh bằng mã phát hiện lỗi CRC|2. Giải điều chế BFSK âm thanh thu được về mã nhị phân|
 |3. Thêm bit tiền tố và hậu tố |3. Xoá bỏ các bit 0 dư thừa và các bit tiền tố, hậu tố|
 |4. Điều chế tần số bằng phương pháp BFSK|4. Giải mã CRC để phát hiện lỗi tín hiệu nhận|
 |5. Truyền âm thanh đi|5. Giải mã RLE mã nhị phân về văn bản gốc|
