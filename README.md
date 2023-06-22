@@ -24,7 +24,7 @@
 - scipy
 - pyaudio
 ```
-pip install numpy sounddevice scipy
+pip install numpy pyaudio scipy
 ```
 ## Thư viện bổ sung bên máy thu
 - numpy
@@ -32,7 +32,7 @@ pip install numpy sounddevice scipy
 - pyaudio
 - PyQt6
 ```
-pip install numpy sounddevice scipy PyQt6
+pip install numpy pyaudio scipy PyQt6
 ```
 # Thử nghiệm
 ## *Thử nghiệm trong môi trường có độ ồn*
