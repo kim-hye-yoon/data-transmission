@@ -1,4 +1,4 @@
-# **Thông Tin Vô Tuyến (140928 - ET3901)**
+# **Data Transmission**
   **Phùng Phú Cường 20190084**
 ## **Nội dung bài tập lớn: Truyền file giữa 2 máy tính sử dụng cổng loa và mic**
  Truyền 1 file văn bản - Chuyển thành số nhị phân - Điều chế số - Truyền đi bằng sóng âm thanh- Thu lại và giải mã trở lại đúng file ban đầu
